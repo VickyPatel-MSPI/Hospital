@@ -136,15 +136,18 @@ A patient-level profile page that follows an individual's journey from admission
 
 ### 👨‍⚕️ Page 4 — Doctor
 
-Evaluates individual doctor performance, earnings and patient load, with an interactive commission calculator.
+Evaluates individual doctor performance, earnings and patient load, with an interactive commission calculator built on what-if parameters.
 
-**KPI Cards:** Commission Earned · Commission Rate · Patient Spend · Doctor Fees · Estimated Commission
+**KPI Cards:** Estimated Commission · Patient Spend · Commission Rate · Commission Earned · Doctor Fees
 
 **Visuals:**
-- 🪪 Doctor Profile Card — photo, availability, specialization, department, salary and patient ratings
-- 🎚️ Commission Calculator (gauge) driven by **what-if parameters** for Commission Rate and Patient Spend
-- 📋 Patient Table — photo, patient name, status, gender, total bill amount and fees
-- 📋 Appointments (card list with patient name, time and date)
+- 🪪 **Doctor Profile Card** — photo, availability status, specialization, department, salary and patient ratings with written feedback
+- 🎚️ **Commission Calculator** (gauge chart) — shows estimated commission on a 0–100 scale
+- 🔘 **What-If Parameters** — sliders for *Commission Rate* and *Patient Spend* that update the calculator in real time
+- 📋 **Patient Table** — patient photo, name, status, gender, total bill amount and fees, with totals
+- 📋 **Appointments** — card list of the doctor's patients with appointment time and date
+
+**Example insight:** For an ENT specialist, $17.09K in patient spend at a 10% commission rate gives $1.71K in commission earned, plus $1.45K in doctor fees across two discharged patients.
 
 ![Doctor](Images/Doctor.png)
 
