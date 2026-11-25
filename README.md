@@ -5,8 +5,6 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-![Home Page](Images/Home.png)
-
 ---
 
 ## 📌 Project Overview
