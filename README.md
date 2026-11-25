@@ -209,6 +209,6 @@ The project serves as a strong portfolio piece showcasing real-world healthcare 
 
 Explore the Power BI dashboard for interactive visualizations: [Power BI File](#)
 
-Explore the Excel file for query and data analysis: [Excel Data File](#)
+Explore the Excel file for query and data analysis: [Excel Data File]((https://github.com/VickyPatel-MSPI/Hospital/tree/main/Excel%20Data))
 
 ⭐ If you found this project helpful, consider giving it a star — it helps others discover it!
